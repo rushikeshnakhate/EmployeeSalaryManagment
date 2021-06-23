@@ -22,5 +22,8 @@ class EmployeeServiceTest {
     fun createDelete() {
         val data = EmployeeMasterData("1", "login", "name", 1000.00, LocalDate.now())
         controller.createEmployee(data)
+        assertEquals(controller.getEmployee(data.id).id, data.id)
+        controller.deleteEmployee(data.id)
+        Assertions.assertThat(controller.getEmployee(data.id).id.isEmpty())
     }
 }
