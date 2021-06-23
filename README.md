@@ -11,11 +11,13 @@ Scope
 
 Development Process 
 ----------------------------------------------
-1. created batch ```create_test_infra``` on git  and added a unit test cases and raised a pull request and mrgeed it 
+1. created bratch ```create_test_infra``` on git  and added a unit test cases and raised a pull request and mrgeed it 
 2. created new branch ```crud_ops``` and implemented business logic to pass the test cases .Raised a PR ( pull request ) and mrgered it to master 
 
 Below are the git branches information 
 $ git branch -r
+
+
 ![image](https://user-images.githubusercontent.com/14144934/123180829-aa3e0c80-d4be-11eb-8144-b5da1f213c59.png)
 
 
