@@ -8,6 +8,18 @@ Scope
 7. Application is tested using auto test written in Postman 
 
 
+Development Process 
+1. created batch ```create_test_infra``` on git  and added a unit test cases and raised a pull request and mrgeed it 
+2. created new branch ```crud_ops``` and implemented business logic to pass the test cases .Raised a PR ( pull request ) and mrgered it to master 
+
+Below are the git branches information 
+$ git branch -r
+  origin/HEAD -> origin/main
+  origin/create_test_infra
+  origin/crud_ops
+  origin/main
+
+
 How to Build the application 
 1. download the source from Git using git clone 
 2. open the application with intellij and click on maven to build application 
