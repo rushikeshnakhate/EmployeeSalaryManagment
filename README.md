@@ -8,6 +8,9 @@ Scope
 
 
 How to Build the application 
-1. open the application with intellij and click on maven to build application 
- ![image](https://user-images.githubusercontent.com/14144934/123178634-2f72f280-d4ba-11eb-8123-0874fb893744.png)
-
+1. download the source from Git using git clone 
+2. open the application with intellij and click on maven to build application 
+ ![image](https://user-images.githubusercontent.com/14144934/123178755-76f97e80-d4ba-11eb-8149-93c8b68480dd.png)
+3. Dependencies sqllite3 Database - It can be installed using the link https://www.sqlite.org/download.html and dowload the souces file.Once downloaded verify the installation from command line .
+![image](https://user-images.githubusercontent.com/14144934/123178954-ea02f500-d4ba-11eb-9316-48b1b8693530.png)
+4, 
