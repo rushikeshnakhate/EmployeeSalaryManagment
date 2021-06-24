@@ -37,3 +37,11 @@ How to Build the application
 ![image](https://user-images.githubusercontent.com/14144934/123178954-ea02f500-d4ba-11eb-9316-48b1b8693530.png)
 
 
+
+Integration Testing with Postman 
+----------------------------------------------
+
+![image](https://user-images.githubusercontent.com/14144934/123182688-87155c00-d4c2-11eb-8ff3-8522d4d7e612.png)
+
+
+
